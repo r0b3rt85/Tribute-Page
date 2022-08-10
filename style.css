@@ -1,0 +1,16 @@
+.gold {
+  color: gold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.img-small {
+  width: 60%;
+  padding-bottom: 20px;
+}
+
+.reference {
+  color: hsl(0, 0%, 70%);
+}
